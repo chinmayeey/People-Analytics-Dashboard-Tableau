@@ -66,6 +66,19 @@ This dashboard helps HR teams and business stakeholders:
        width="100%"/>
 </p>
 
+## 🔗 Live Tableau Dashboard
+
+Explore the interactive dashboard published on Tableau Public:
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/chinmayee.y/viz/PeopleAnalyticsDashboard_17953345785880/Summary">
+    <img src="https://img.shields.io/badge/View%20Interactive%20Dashboard-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="View Tableau Dashboard"/>
+  </a>
+</p>
+
+**Tableau Public Profile:** [Chinmayee Y](https://public.tableau.com/app/profile/chinmayee.y)
+
+**Dashboard:** [People Analytics Dashboard](https://public.tableau.com/app/profile/chinmayee.y/viz/PeopleAnalyticsDashboard_17953345785880/Summary)
 ## 👩‍💻 About Me
 
 ### **Chinmayee Y**
@@ -96,8 +109,12 @@ I enjoy exploring data, building interactive dashboards, and solving real-world 
 
 💻 **GitHub:** [Explore my projects](https://github.com/chinmayeey)
 
+📊 **Tableau Public:** [Explore my dashboards](https://public.tableau.com/app/profile/chinmayee.y)
+
 ---
 
 ⭐ **Thank you for visiting my project! Feel free to explore my work and connect with me.**
 
 #Tableau #HRAnalytics #PeopleAnalytics #DataAnalytics #DataVisualization #BusinessIntelligence
+
+
